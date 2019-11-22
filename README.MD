@@ -2,6 +2,10 @@
 
 In this lesson, we go over how to interact with the DOM using javascript.
 
+## Lecture Slides
+
+https://slides.com/mattbodily/deck-25
+
 ## Adding Javascript To HTML
 
 There are two ways we can go about adding javascript to our HTML file.
