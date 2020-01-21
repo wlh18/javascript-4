@@ -4,7 +4,7 @@ In this lesson, we go over how to interact with the DOM using javascript.
 
 ## Lecture Slides
 
-https://slides.com/mattbodily/deck-25
+https://slides.com/matias_perez/js-in-the-dom/#/
 
 ## Adding Javascript To HTML
 
