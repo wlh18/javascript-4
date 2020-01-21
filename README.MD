@@ -371,6 +371,7 @@ There are many different events that we can add to an element.
 ##### Input Events
 
 `change` - listens for a change in a controlled input
+> Note: input fields of `type="text" do not fire a change event until the focus is changed`
 
 #### Event Handler
 
