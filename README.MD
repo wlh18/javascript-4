@@ -390,7 +390,7 @@ The `event` parameter will be an object that we can use to access additional pro
 Example:
 
 ```html
-<input type="text" id="myInput">
+<input type="email" id="myInput">
 ```
 
 ```javascript
