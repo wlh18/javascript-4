@@ -1,4 +1,4 @@
-# Vanilla Javascript One
+# Vanilla Javascript One & Two
 
 In this lesson, we go over how to interact with the DOM using javascript.
 
