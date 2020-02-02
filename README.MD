@@ -362,10 +362,6 @@ Notice how we first capture the element then add the event listener. The first a
 
 This lecture is an extention of a the vanilla javascript one lecture. We will cover more topics when working with the DOM.
 
-## Lecture Slides
-
-https://slides.com/mattbodily/deck-25
-
 ## Events
 
 An Event in Javascript and HTML is anytime the user interacts with our document.
