@@ -39,7 +39,7 @@ https://slides.com/matias_perez/js-in-the-dom/#/
 - Students can use `createElement`, `append`, `parentNode` and `remove` to dynamically update the DOM.
 - Students can use `getAttribute` and `setAttribute` to update element properties.
 
-### Compatability and Security
+### Compatibility and Security
 
 - Students can describe `XSS`.
 - Students can describe polyfills and their importance.
