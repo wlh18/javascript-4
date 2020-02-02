@@ -6,6 +6,30 @@ In this lesson, we go over how to interact with the DOM using javascript.
 
 https://slides.com/matias_perez/js-in-the-dom/#/
 
+# Student Learning Objectives
+
+### Events
+
+- Students can handle events using HTML attributes, Javascript properties, and `addEventListener`.
+- Students can discuess the benefits and drawbacks of each approach.
+- Students can define event bubbling.
+- Students can use `stopPropagation` and `preventDefault` in event handlers.
+- Students can use the `DOMContentLoaded` event.
+
+### DOM
+
+- Students can use `querySelector` and `querySelectorAll` to select elements in Javascript.
+- Students can use `createElement`, `append`, `parentNode` and `remove` to dynamically update the DOM.
+- Students can use `getAttribute` and `setAttribute` to update element properties.
+
+### Compatability and Security
+
+- Students can describe `XSS`.
+- Students can describe polyfills and their importance.
+
+
+# Lecture Notes
+
 ## Adding Javascript To HTML
 
 There are two ways we can go about adding javascript to our HTML file.
