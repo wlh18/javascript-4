@@ -8,6 +8,23 @@ https://slides.com/matias_perez/js-in-the-dom/#/
 
 # Student Learning Objectives
 
+### Javascript + HTML
+
+- Students can explain why Javascript is used on the Web.
+- Students can add Javascript to an HTML file using inline and external scripts.
+- Students can use `alert` and `console.log` to display information.
+- Students can describe the `window` object as the global object.
+
+### DOM
+
+- Students can describe the DOM
+- Students can use `getElementById` to access a single element in Javascript.
+- Students can use `getElementsByTagName` to access multiple elements in Javascript.
+- Students can use `.style`, `.className`, and `.classList` to change a single element's styling.
+- Students can use `.innerText` and `.innerHTML` to change a single element's content.
+- Students can use `.value` on an input element to get the element's value.
+- Students can add an event handler as an HTML attribute.
+
 ### Events
 
 - Students can handle events using HTML attributes, Javascript properties, and `addEventListener`.
@@ -26,7 +43,6 @@ https://slides.com/matias_perez/js-in-the-dom/#/
 
 - Students can describe `XSS`.
 - Students can describe polyfills and their importance.
-
 
 # Lecture Notes
 
