@@ -683,6 +683,8 @@ Very thorough guide to interacting with the DOM using Vanilla JS, with reference
 Great reference or ‘cheat sheet’ for basic Vanilla JS and interacting with the DOM. 
 * https://medium.com/better-programming/understanding-preventdefault-stoppropagation-and-stopimmediatepropagation-when-working-with-61842c37e012
 Event bubbling, preventDefault, and stopPropagation.
-##Videos
+
+## Videos
+
 * https://www.youtube.com/watch?v=wiozYyXQEVk
 Basics of event listeners. Uses for...of loop which will be a new for loop for most students. 
