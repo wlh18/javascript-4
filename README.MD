@@ -1,10 +1,8 @@
-# Vanilla Javascript One & Two
+# JavaScript in the DOM
 
 In this lesson, we go over how to interact with the DOM using javascript.
 
-## Lecture Slides
-
-https://slides.com/matias_perez/js-in-the-dom/#/
+## Lecture Slides: https://slides.com/matias_perez/js-in-the-dom/#/
 
 # Student Learning Objectives
 
