@@ -1,46 +1,52 @@
-# JavaScript in the DOM
-
-In this lesson, we go over how to interact with the DOM using javascript.
 
 ## Lecture Slides: https://slides.com/matias_perez/js-in-the-dom/#/
 
 # Student Learning Objectives
 
-### Javascript + HTML
+<details>
+ <summary>JavaScript + HTML</summary>
+ <ul>
+  <li>Students can explain why Javascript is used on the Web</li> 
+  <li>Students can add Javascript to an HTML file using inline and external scripts</li> 
+  <li>Students can use `alert` and `console.log` to display information</li> 
+  <li>Students can describe the `window` object as the global object</li> 
+ </ul>
+</details>
 
-- Students can explain why Javascript is used on the Web.
-- Students can add Javascript to an HTML file using inline and external scripts.
-- Students can use `alert` and `console.log` to display information.
-- Students can describe the `window` object as the global object.
+<details>
+ <summary>DOM</summary>
+ <ul>
+  <li>Students can describe the DOM</li>
+  <li>Students can use `getElementById` to access a single element in Javascript</li>
+  <li>Students can use `getElementsByTagName` to access multiple elements in Javascript</li>
+  <li>Students can use `.style`, `.className`, and `.classList` to change a single element's styling</li>
+  <li>Students can use `.innerText` and `.innerHTML` to change a single element's content</li>
+  <li>Students can use `.value` on an input element to get the element's value</li>
+  <li>Students can add an event handler as an HTML attribute</li>
+  <li>Students can use `querySelector` and `querySelectorAll` to select elements in Javascript</li>
+  <li>Students can use `createElement`, `append`, `parentNode` and `remove` to dynamically update the DOM</li>
+  <li>Students can use `getAttribute` and `setAttribute` to update element properties</li>
+ </ul>
+</details>
 
-### DOM
+<details>
+ <summary>Events</summary>
+ <ul>
+  <li>Students can handle events using HTML attributes, Javascript properties, and `addEventListener`</li>
+  <li>Students can discuess the benefits and drawbacks of each approach</li>
+  <li>Students can define event bubbling</li>
+  <li>Students can use `stopPropagation` and `preventDefault` in event handlers</li>
+  <li>Students can use the `DOMContentLoaded` event</li>
+ </ul>
+</details>
 
-- Students can describe the DOM
-- Students can use `getElementById` to access a single element in Javascript.
-- Students can use `getElementsByTagName` to access multiple elements in Javascript.
-- Students can use `.style`, `.className`, and `.classList` to change a single element's styling.
-- Students can use `.innerText` and `.innerHTML` to change a single element's content.
-- Students can use `.value` on an input element to get the element's value.
-- Students can add an event handler as an HTML attribute.
-
-### Events
-
-- Students can handle events using HTML attributes, Javascript properties, and `addEventListener`.
-- Students can discuess the benefits and drawbacks of each approach.
-- Students can define event bubbling.
-- Students can use `stopPropagation` and `preventDefault` in event handlers.
-- Students can use the `DOMContentLoaded` event.
-
-### DOM
-
-- Students can use `querySelector` and `querySelectorAll` to select elements in Javascript.
-- Students can use `createElement`, `append`, `parentNode` and `remove` to dynamically update the DOM.
-- Students can use `getAttribute` and `setAttribute` to update element properties.
-
-### Compatibility and Security
-
-- Students can describe `XSS`.
-- Students can describe polyfills and their importance.
+<details>
+ <summary>Compatibility and Security</summary>
+ <ul>
+  <li>Students can describe `XSS`</li>
+  <li>Students can describe polyfills and their importance</li>
+ </ul>
+</details>
 
 # Lecture Notes
 
