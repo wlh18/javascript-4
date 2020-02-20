@@ -690,5 +690,5 @@ Event bubbling, preventDefault, and stopPropagation.
 
 ## Videos
 
-* [Dev-Ed - JS in the DOM]https://www.youtube.com/watch?v=wiozYyXQEVk
+* [Dev-Ed - JS in the DOM](https://www.youtube.com/watch?v=wiozYyXQEVk)
 Basics of event listeners. Uses for...of loop which will be a new for loop for most students. 
