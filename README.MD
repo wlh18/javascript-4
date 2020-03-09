@@ -1,6 +1,11 @@
 
 ## Lecture Slides: https://slides.com/matias_perez/js-in-the-dom/#/
 
+## Projects
+- Mini Project: https://github.com/DevMountain/vanillajs-2-afternoon
+
+- Afternoon Project: https://github.com/DevMountain/vanillajs-2-afternoon
+
 # Student Learning Objectives
 
 <details>
